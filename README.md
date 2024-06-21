@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on build Python and JavaScript microservices & API's
+- 🔭 I’m currently working on writing Python and JavaScript microservices & API's
 - 🌱 I’m currently learning advanced Kubernetes concepts for the KCA certification
 - 💬 Ask me about all things Terraform with the big 3 Cloud Providers (AWS, GCP, Azure)
 - 🤔 I’m looking for help with Algorithms
